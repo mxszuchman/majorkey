@@ -8,7 +8,6 @@
 /Users/maxszuchman/Majorkey/obj/Debug/net6.0/Majorkey.dll
 /Users/maxszuchman/Majorkey/obj/Debug/net6.0/refint/Majorkey.dll
 /Users/maxszuchman/Majorkey/obj/Debug/net6.0/Majorkey.pdb
-/Users/maxszuchman/Majorkey/bin/Debug/net6.0/appsettings.Development.json
 /Users/maxszuchman/Majorkey/bin/Debug/net6.0/appsettings.json
 /Users/maxszuchman/Majorkey/bin/Debug/net6.0/Majorkey
 /Users/maxszuchman/Majorkey/bin/Debug/net6.0/Majorkey.deps.json
